@@ -25,9 +25,11 @@ The subnet mask or prefix length. This number specifies the number of bits in th
 5. How many IP addresses are in the CIDR block 10.0.0.0/24?
 
 In CIDR notation, the "/24" indicates that the first 24 bits of the 32-bit IPv4 address are used for the network portion, leaving 8 bits for host addresses. For an IPv4 address, there are 32 bits in total. When you have a "/24" subnet mask, it means there are 32 - 24 = 8 bits available for host addresses. With 8 bits for hosts, you can have 2^8 = 256 unique combinations of host addresses within that network block. However, remember that in any given subnet, the first and last addresses are reserved. So, out of the 256 combinations, the network ID (10.0.0.0) and the broadcast address (10.0.0.255) cannot be assigned to hosts. Therefore, in the CIDR block 10.0.0.0/24, there are 256 - 2 = 254 usable IP addresses for hosts.
+
 ## Network segmentation 
 
 1. In your own words, describe network segmentation.
+
 Network segmentation involves dividing a computer network into smaller, isolated sections or segments to enhance security, efficiency, and management. By categorizing devices and systems into distinct segments based on criteria like functionality, security requirements, or departmental divisions, segmentation helps restrict the scope of potential security breaches. It allows for tighter control over traffic flow, limiting the impact of cyber threats or unauthorized access. Moreover, segmentation facilitates the application of specific security measures tailored to each segment's needs, enabling better monitoring, control, and optimization of network resources and performance.
 
 2. Network segmentation isn’t important as long as the network is using a well 
