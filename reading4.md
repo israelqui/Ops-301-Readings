@@ -9,7 +9,7 @@ In VirtualBox, the network mode that emulates unplugging the Ethernet cable from
 
 2. Which network mode would be best if you wanted to run a server on a VM that could be fully accessible from your physical local area network?
 
-n the Bridged Adapter mode, the VM's network interface is bridged with a physical network adapter on your host machine. This configuration allows the VM to appear as a separate device on your local network, obtaining an IP address directly from your router or DHCP server. As a result, the VM can communicate and be accessed by other devices on the LAN as if it were a physical machine connected to the same network.
+In the Bridged Adapter mode, the VM's network interface is bridged with a physical network adapter on your host machine. This configuration allows the VM to appear as a separate device on your local network, obtaining an IP address directly from your router or DHCP server. As a result, the VM can communicate and be accessed by other devices on the LAN as if it were a physical machine connected to the same network.
 
 When setting up a server on a VM that needs to be reachable and fully accessible within your local network, using the Bridged Adapter mode enables seamless integration of the virtual server with your LAN infrastructure.
 
