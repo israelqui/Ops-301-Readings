@@ -48,6 +48,6 @@ network traffic mirroring and its considerations is like navigating through the 
 - Explore advanced concepts in network security like encryption methods, firewall configurations, intrusion detection systems, or security protocols.
 
 ## Sources
-- How to capture network traffic? SPAN vs TAP
-- Logs and Monitoring
+- https://accedian.com/blog/capture-network-traffic-span-vs-tap/
+- https://www.professormesser.com/network-plus/n10-008/n10-008-video/logs-and-monitoring-n10-008/
 - https://chat.openai.com/
