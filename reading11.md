@@ -1,6 +1,8 @@
 # Reading 11
 
-# Why is it important?
+# Windows Server
+
+## Why is it important?
 
 
 Understanding Windows Server is crucial for anyone interested in IT careers due to its pivotal role in managing networks, data, and services within organizations. Mastery of Windows Server grants proficiency in centralized management, data storage, security protocols, and support for critical enterprise applications. This knowledge is fundamental for roles in network administration, system administration, cybersecurity, and cloud computing, offering the expertise needed to ensure robust, scalable, and secure IT infrastructures that meet the demands of modern businesses.
