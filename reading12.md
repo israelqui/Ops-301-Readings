@@ -48,8 +48,10 @@ However, this convenience also presents security risks:
 
 4. Difficulty in Detection: If a single set of credentials is used across multiple machines, it can be challenging to track and detect unusual login activities or potential breaches, as legitimate access might appear normal.
 
-3. Describe how group policies are used in domains?
+Balancing convenience with security is key in managing domain-wide logins to ensure smooth operations while safeguarding against potential security threats.
 
+
+3. Describe how group policies are used in domains?
 
 Group Policies in a domain are powerful tools used to manage and enforce specific settings, configurations, and security policies for users and computers within the Active Directory infrastructure. Here's how they are used:
 
