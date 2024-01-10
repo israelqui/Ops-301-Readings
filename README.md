@@ -1,1 +1,17 @@
 # Ops-301-Readings
+## These are my 301 Networking readings
+- [](reading1.md)
+- [](reading2.md)
+- [](reading3.md)
+- [](reading4.md)
+- [VPN Tunnel](reading5.md)
+- [Network Address Translation](reading6.md)
+- [Web Server Deployment](reading7.md)
+- [RADIUS Authentication](reading8.md)
+- [Traffic Mirroring](reading9.md)
+- [VCP](reading10.md)
+- [Windows Server](reading11.md)
+- [Domain Controller](reading12.md)
+- [Active Directory](reading13.md)
+- [Group policy](reading14.md)
+- [Diversity & Inclusion in the Tech Industry](reading14b.md)
