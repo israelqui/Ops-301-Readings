@@ -1,9 +1,10 @@
 # Ops-301-Readings
 ## These are my 301 Networking readings
-- [](reading1.md)
-- [](reading2.md)
-- [](reading3.md)
-- [](reading4.md)
+
+- [Network Traffic Analysis with Wireshark](reading1.md)
+- [Network scanning with NMAP](reading2.md)
+- [Network Segmentation](reading3.md)
+- [Routing](reading4.md)
 - [VPN Tunnel](reading5.md)
 - [Network Address Translation](reading6.md)
 - [Web Server Deployment](reading7.md)

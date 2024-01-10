@@ -1,5 +1,5 @@
 # Reading 2
-
+# Network scanning with NMAP
 ## Why is it important
 
 Network ports are virtual endpoints used by computers to facilitate communication over a network. They allow different applications and services to connect and exchange data. Ports are numbered, and each number corresponds to a specific type of service or protocol. For instance, HTTP typically uses port 80, while HTTPS uses port 443. Ports enable multiple services to run on a single device by allocating different ports to each service, ensuring that data reaches the correct application or service.

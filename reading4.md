@@ -1,4 +1,5 @@
 # Reading 4
+# Routing
 ## Why this topic matters?
 
 Understanding networking concepts such as different network modes in virtualization, port forwarding, and security implications is vital. It enables secure configurations, like isolating virtual machines to prevent unauthorized access, while also facilitating the hosting of servers accessible within local networks. Port forwarding knowledge ensures specific traffic is directed to intended services or devices. Awareness of security risks associated with these configurations helps in making informed decisions to mitigate potential threats, ensuring functional and secure network setups. Overall, comprehending these concepts empowers effective network management, balancing functionality with robust security measures.

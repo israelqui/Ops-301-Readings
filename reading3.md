@@ -1,4 +1,5 @@
 # Reading 3
+# Network Segmentation
 ## Why is it important to learn thins concept?
 
 CIDR block notation efficiently manages IP addresses, optimizing their allocation and use in networks. Network segmentation enhances security by isolating sections, limiting the impact of potential breaches and enabling tailored security measures for different network areas. Together, they bolster network efficiency and resilience against cyber threats.
